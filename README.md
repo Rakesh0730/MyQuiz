@@ -1,5 +1,5 @@
 # MyQuiz Game
-Project #37
+Project #37. 
 A quiz game anyone can play with their friends and family, created by Rakesh.
 
 # Some things you need to consider.
